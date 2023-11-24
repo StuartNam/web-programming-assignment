@@ -1,0 +1,60 @@
+.padding-0
+{
+    padding: 0;
+}
+
+.margin-0
+{
+    margin: 0;
+}
+
+#profile-card-text-name
+{
+    font-size: 15pt;
+
+    margin: 0 0 10px 10px;
+    padding: 0;
+}
+
+#profile-card-text-phone-number
+{
+    font-size: 12pt;
+
+    margin: 0 0 10px 10px;
+    padding: 0;
+}
+
+#profile-card-text-email
+{
+    font-size: 12pt;
+
+    margin: 0 0 10px 10px;
+    padding: 0;
+}
+
+#registration-history-text-header
+{
+    padding: 0 0 0 10%;
+}
+
+#cont-registration-history-table 
+{
+    width: 80%;
+    height: 300px;
+    overflow: auto;
+}
+
+#registration-history-table-body
+{
+    max-height: 300px; /* Set the height of the container */
+    overflow-y: auto; /* Enable scrollbars if content overflows */
+}
+
+.fixed-header thead th 
+{
+    position: sticky;
+    top: 0;
+
+    border: none;
+    background-color: #f5f5f5; /* Change the background color as needed */
+}
